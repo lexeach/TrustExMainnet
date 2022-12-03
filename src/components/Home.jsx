@@ -109,7 +109,7 @@ function Home() {
     <footer>
         <div class="cpy-right text-center py-4">
             <p class="text-white">This is a decentralized swap application | Design by
-                <a href="https://wa.me/919211271038"> DK Gautam.</a>
+                <a href="https://trustcoin.app"> Trust Coin| All Right Reserved, Trust Coin or its Affiliates.</a>
             </p>
         </div>
     </footer>
