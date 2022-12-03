@@ -18,7 +18,7 @@ function Home() {
 
         var dataText = [
              "Swap TRCT-USDT token.",
-            "Trustless- Fully decentralised.",
+            "TRUSTCOIN- Fully decentralised.",
             "Lower Transaction fee",
             "Instant Fund transafer to youe wallet",
             "Select BNB smart chain mainnet in Metamask"
