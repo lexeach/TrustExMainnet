@@ -21,7 +21,7 @@ function Home() {
             "TRUSTCOIN- Fully decentralised.",
             "Lower Transaction fee",
             "Instant Fund transafer to youe wallet",
-            "Select BNB smart chain mainnet in Metamask"
+            "Select BNB smart chain mainnet in your wallet"
 
 
        ];
