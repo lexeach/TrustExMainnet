@@ -20,7 +20,7 @@ function Home() {
              "Swap TRCT-USDT token.",
             "TRUSTCOIN- Fully decentralised.",
             "Lower Transaction fee",
-            "Instant Fund transafer to youe wallet",
+            "Instant Fund transafer to your wallet",
             "Select BNB smart chain mainnet in your wallet"
 
 
