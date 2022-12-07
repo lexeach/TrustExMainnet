@@ -352,7 +352,7 @@ class App extends Component {
         <div className="container" >
         <h3>Welcome</h3>
          <ul>
-         <li><h5>Click the button below to connect Metamask wallet.</h5></li>
+         <li><h5>Click the button below to connect wallet.</h5></li>
          {/* <li><h5>Don't forget to select "RinkeyBy Test Network" in Metamask App.</h5></li>                       */}
           
         </ul>   
