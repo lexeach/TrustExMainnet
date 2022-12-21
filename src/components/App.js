@@ -100,7 +100,7 @@ class App extends Component {
 
 
         // =========== contract address ===========
-        const ethSwapWebSocket = await new web3Socket.eth.Contract(EthSwap, "0x6635f5E15cF561Da122DE75D65F3482aeF96778B")
+        const ethSwapWebSocket = await new web3Socket.eth.Contract(EthSwap, "0xB72DB446bB4cde974B4B6dE790D782b36cf13D8b")
         this.setState({ ethSwapWebSocket })
 
 
@@ -145,7 +145,7 @@ class App extends Component {
     // Load EthSwap
     // const ethSwapData = await EthSwap.networks[networkId]
     // if(ethSwapData) {
-      const ethSwap = new web3.eth.Contract(EthSwap, "0x6635f5E15cF561Da122DE75D65F3482aeF96778B")
+      const ethSwap = new web3.eth.Contract(EthSwap, "0xB72DB446bB4cde974B4B6dE790D782b36cf13D8b")
       this.setState({ ethSwap })
       console.log('ethSwap.options.address:' + this.state.ethSwap.options.address)      
     // } else {
